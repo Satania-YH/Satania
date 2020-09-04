@@ -1,6 +1,0 @@
-E:\代码\c#代码\知识竞赛选拔系统\CompetitionSystem\CompetitionSystem.DTO\bin\Debug\CompetitionSystem.DTO.dll
-E:\代码\c#代码\知识竞赛选拔系统\CompetitionSystem\CompetitionSystem.DTO\bin\Debug\CompetitionSystem.DTO.pdb
-E:\代码\c#代码\知识竞赛选拔系统\CompetitionSystem\CompetitionSystem.DTO\obj\Debug\CompetitionSystem.DTO.csprojAssemblyReference.cache
-E:\代码\c#代码\知识竞赛选拔系统\CompetitionSystem\CompetitionSystem.DTO\obj\Debug\CompetitionSystem.DTO.csproj.CoreCompileInputs.cache
-E:\代码\c#代码\知识竞赛选拔系统\CompetitionSystem\CompetitionSystem.DTO\obj\Debug\CompetitionSystem.DTO.dll
-E:\代码\c#代码\知识竞赛选拔系统\CompetitionSystem\CompetitionSystem.DTO\obj\Debug\CompetitionSystem.DTO.pdb
